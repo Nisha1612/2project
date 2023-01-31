@@ -1,0 +1,23 @@
+body{margin:0;}
+.container{width:1200px;margin:0 auto;}
+.logo{background:cadetblue;padding:10px 0;}
+.logo-content{color:blue;font-weight:bold;text-align:center;margin:0;}
+.menu{background-color:darkgrey;}
+ul{list-style-type:none;margin:0;padding:0;overflow:hidden;}
+li{float:left;}
+li a{display:block;color:white;text-align:center;padding:14px 16px;font-weight:600;text-decoration:none;}
+li a:hover{background-color:black;}
+.sub-title{display:block;font-size:18px;color:white;font-style:italic;font-weight:600;text-align:center;padding-top:130px;}
+.main-title{font-size:32px;color:white;font-weight:900;text-align:center;text-decoration:underline;margin:10px 0;}
+.text{font-size:27px;color:white;font-style:italic;font-weight:500;text-align:center;margin:0;}
+.main-heading{font-size:32px;color:darkgrey;font-weight:900;text-align:center;font-style:italic;}
+.normal-text{font-size:16px;font-style:nomal;text-align:center;}
+.contact-form{width:50%;float:right;}
+.contact-form input, .contact-form textarea{width: 100%;border: 2px solid navy;margin-bottom:10px;padding:13px 10px;box-sizing:border-box;border-radius:5px;color:black;}
+button{cursor:pointer;background:navy;color:white;border:1px solid navy;padding:15px 40px;font-size:16px;border-radius:5px;}
+.contact-head{color:sienna;font-size:30px;font-weight:700;font-style:italic;text-decoration:underline;}
+.desc, .title, .price{margin:10px 0;}
+.food-section{border:3px solid sienna;margin-bottom:20px;margin-top:20px;}
+.food-section .image{width:300px;height:300px;float:left;margin-right:30px;}
+.food-section .box{height:300px;padding:75px 0 0;box-sizing:border-box;}
+.food-section .image img{width:100%;height:100%;}
